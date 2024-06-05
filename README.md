@@ -11,10 +11,6 @@
 
 
 ## Screenshots
-
-
-
-### Reports Generated
 ![Serial-Plotter](images/image.png)
 
 
