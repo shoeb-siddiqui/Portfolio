@@ -15,7 +15,7 @@
 
 
 ### Reports Generated
-![Serial-Plotter](Serial-Plotter/res/icons/report_generation.png)
+![Serial-Plotter](images/image.png)
 
 
 
