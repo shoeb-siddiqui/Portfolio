@@ -17,8 +17,7 @@
 ### Reports Generated
 ![Serial-Plotter](Serial-Plotter/res/icons/report_generation.png)
 
-### Different Channels
-![Serial-Plotter](Serial-Plotter/res/icons/set_para.png)
+
 
 
 
